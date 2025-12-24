@@ -7,6 +7,7 @@ Last update: 06/30/2025 📅
 
 A tool that's easy to use and open to everyone.
 I haven't used it in a while, so I wanted to share it with yall because it will be useful to many other people besides me! 👀
+
 *Coded in my way (I'm just a beginner at coding lmao)*
 
 #### 📒 What it includes:
@@ -22,4 +23,5 @@ I haven't used it in a while, so I wanted to share it with yall because it will 
 **For any problem related to the tool as well as the files you are trying to deserialize, please contact me on discord.**
 
 *Orignal hashes dictionary by **Kriskras99** (on GitHub)*
+
 
