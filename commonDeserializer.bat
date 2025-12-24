@@ -1,5 +1,6 @@
 @echo off
 title = Common Deserializer
 @echo on
-python bin\commonDeserializer.py
+python bin\remakeMultiUAF.py
+
 pause
